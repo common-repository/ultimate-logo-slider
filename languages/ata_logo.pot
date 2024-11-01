@@ -1,0 +1,281 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ultimate Logo Slider\n"
+"POT-Creation-Date: 2017-09-20 15:57+0600\n"
+"PO-Revision-Date: 2017-09-20 15:57+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ultimate_logo_slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/logo-metabox.php:20
+msgid "Logo "
+msgstr ""
+
+#: inc/meta-settings.php:38 inc/options.php:201
+msgid "Arrows Size"
+msgstr ""
+
+#: inc/meta-settings.php:41 inc/options.php:209
+msgid "Arrows Background"
+msgstr ""
+
+#: inc/meta-settings.php:44 inc/options.php:217
+msgid "Arrows Color"
+msgstr ""
+
+#: inc/meta-settings.php:47 inc/options.php:224
+msgid "Arrows Hover Background"
+msgstr ""
+
+#: inc/meta-settings.php:50 inc/options.php:231
+msgid "Arrows Hover Color"
+msgstr ""
+
+#: inc/meta-settings.php:53 inc/options.php:238
+msgid "Pagination Color"
+msgstr ""
+
+#: inc/meta-settings.php:56 inc/options.php:245
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: inc/meta-settings.php:59 inc/options.php:252
+msgid "Tooltip Background"
+msgstr ""
+
+#: inc/meta-settings.php:62 inc/options.php:259
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: inc/meta-settings.php:65 inc/options.php:266
+msgid "Tooltip Font Size"
+msgstr ""
+
+#: inc/meta-settings.php:68 inc/options.php:270
+msgid "px"
+msgstr ""
+
+#: inc/meta-settings.php:74 inc/options.php:276
+msgid "Logo Border"
+msgstr ""
+
+#: inc/meta-settings.php:76 inc/meta-settings.php:147 inc/meta-settings.php:173
+#: inc/meta-settings.php:184 inc/meta-settings.php:209
+#: inc/meta-settings.php:220 inc/meta-settings.php:231 inc/options.php:46
+#: inc/options.php:72 inc/options.php:83 inc/options.php:108
+#: inc/options.php:119 inc/options.php:130 inc/options.php:279
+msgid "No"
+msgstr ""
+
+#: inc/meta-settings.php:77 inc/meta-settings.php:146 inc/meta-settings.php:172
+#: inc/meta-settings.php:183 inc/meta-settings.php:208
+#: inc/meta-settings.php:219 inc/meta-settings.php:230 inc/options.php:45
+#: inc/options.php:71 inc/options.php:82 inc/options.php:107
+#: inc/options.php:118 inc/options.php:129 inc/options.php:280
+msgid "Yes"
+msgstr ""
+
+#: inc/meta-settings.php:81 inc/options.php:285
+msgid "Logo Border Size"
+msgstr ""
+
+#: inc/meta-settings.php:85 inc/options.php:292
+msgid "Border Color"
+msgstr ""
+
+#: inc/meta-settings.php:89 inc/options.php:298
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/meta-settings.php:142 inc/options.php:41
+msgid "Auto Play"
+msgstr ""
+
+#: inc/meta-settings.php:152 inc/options.php:51
+msgid "Auto play speed "
+msgstr ""
+
+#: inc/meta-settings.php:159 inc/options.php:58
+msgid "Slide Speed"
+msgstr ""
+
+#: inc/meta-settings.php:168 inc/options.php:67
+msgid "Stop on Hover"
+msgstr ""
+
+#: inc/meta-settings.php:179 inc/options.php:78
+msgid "next/prev Buttons"
+msgstr ""
+
+#: inc/meta-settings.php:189 inc/options.php:88
+msgid "next/prev position "
+msgstr ""
+
+#: inc/meta-settings.php:193 inc/options.php:92
+msgid "Center"
+msgstr ""
+
+#: inc/meta-settings.php:194 inc/options.php:93
+msgid "Top Right"
+msgstr ""
+
+#: inc/meta-settings.php:195 inc/options.php:94
+msgid "Top Left"
+msgstr ""
+
+#: inc/meta-settings.php:196 inc/options.php:95
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/meta-settings.php:197 inc/options.php:96
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/meta-settings.php:204 inc/options.php:103
+msgid "Pagination"
+msgstr ""
+
+#: inc/meta-settings.php:215 inc/options.php:114
+msgid "Mouse Drag"
+msgstr ""
+
+#: inc/meta-settings.php:226 inc/options.php:125
+msgid "Lazy Load"
+msgstr ""
+
+#: inc/meta-settings.php:239 inc/options.php:138
+msgid "Logo items (on Desktop, screen larger than 1198px)"
+msgstr ""
+
+#: inc/meta-settings.php:248 inc/options.php:147
+msgid "Logo items (on Desktop, screen larger than 978px)"
+msgstr ""
+
+#: inc/meta-settings.php:257 inc/options.php:156
+msgid "Logo items (on Tablet)"
+msgstr ""
+
+#: inc/meta-settings.php:266 inc/options.php:165
+msgid "Logo items (on Mobile)"
+msgstr ""
+
+#: inc/options.php:26
+msgid "Logo Carousel Global Settings"
+msgstr ""
+
+#: inc/options.php:34
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/options.php:184 inc/options.php:308
+msgid "Save Options"
+msgstr ""
+
+#: inc/options.php:194
+msgid "Style Settings"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:7
+msgctxt "ata_logo"
+msgid "Logo Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:8
+msgctxt "ata_logo"
+msgid "Logo Slider "
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:9
+msgid "Logo Slider "
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:10
+msgid "Parent Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:11
+msgid "All Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:12
+msgid "View Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:13 inc/unlimited-logo-carousel.php:14
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:15
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:16
+msgid "Update Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:17
+msgid "Search Slider"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:18
+msgid "Not Found"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:19
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:66
+msgid "Title"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:67
+msgid "Usage"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:68
+msgid "Author"
+msgstr ""
+
+#: inc/unlimited-logo-carousel.php:69
+msgid "Date"
+msgstr ""
+
+#: inc/views.php:64 inc/views.php:69
+msgid "No logo found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Logo Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://athemeart.com/downloads/ultimed_logo_slider"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Unlimited Logo Carousel allows you to easily create logo carousel/slider to "
+"display logos of clients, partners, sponsors, affiliates etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eDataStyle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://athemeart.com"
+msgstr ""
